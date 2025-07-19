@@ -6,54 +6,54 @@ An interactive web dashboard built with **React** to simulate sales forecasting 
 
 ## 🚀 Features
 
-- Synthetic sales data with trend & seasonality
-- Simulated forecasting (Prophet-inspired)
-- Error metrics: MAE & RMSE
-- Inventory recommendation using safety stock
-- Interactive charts using **Recharts**
+- Synthetic sales data with trend & seasonality  
+- Simulated forecasting (Prophet-inspired)  
+- Error metrics: MAE & RMSE  
+- Inventory recommendation using safety stock  
+- Interactive charts using **Recharts**  
 - Built with **React**, **Tailwind CSS**, and **JavaScript**
 
 ---
 
 ## 🧑‍💻 Getting Started
 
-### Prerequisites
+### ✅ Prerequisites
+
 - Node.js & npm  
 - Git
 
-### Installation
+---
 
+### 📦 Installation
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
-cd YOUR_REPOSITORY_NAME
-npm install
-npm start
+`git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git`
 
--Visit: http://localhost:3000
+`cd YOUR_REPOSITORY_NAME`
 
+`npm install`
 
-📁 Project Structure
-App.js – main logic
-
-index.js – entry point
-
-index.css – Tailwind setup
-
-tailwind.config.js – Tailwind config
-
-📈 Learning Outcomes
-Time-series forecasting basics
-
-Inventory planning logic
-
-React + Tailwind UI development
-
-Charting with Recharts
-
-GitHub Pages deployment
-
-© 2025 – Created by Naveen
+`npm start`
+```
 
 ---
 
-Let me know if you want this auto-filled with your actual GitHub username and repo, or a more styled version with badges/images.
+### 📁 Project Structure
+```
+├── App.js               # Main logic
+├── index.js             # Entry point
+├── index.css            # Tailwind setup
+├── tailwind.config.js   # Tailwind configuration
+
+```
+### 📈 Learning Outcomes
+- Time-series forecasting basics
+
+- Inventory planning logic
+
+- React + Tailwind UI development
+
+- Charting with Recharts
+
+- GitHub Pages deployment
+
+© 2025 – Created by Naveen
