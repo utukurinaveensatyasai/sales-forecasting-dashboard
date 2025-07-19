@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sales-forecasting-dashboard/static/css/main.df260499.css",
+    "main.js": "/sales-forecasting-dashboard/static/js/main.54f13fee.js",
+    "static/js/453.8d0481d7.chunk.js": "/sales-forecasting-dashboard/static/js/453.8d0481d7.chunk.js",
+    "index.html": "/sales-forecasting-dashboard/index.html",
+    "main.df260499.css.map": "/sales-forecasting-dashboard/static/css/main.df260499.css.map",
+    "main.54f13fee.js.map": "/sales-forecasting-dashboard/static/js/main.54f13fee.js.map",
+    "453.8d0481d7.chunk.js.map": "/sales-forecasting-dashboard/static/js/453.8d0481d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df260499.css",
+    "static/js/main.54f13fee.js"
+  ]
+}
